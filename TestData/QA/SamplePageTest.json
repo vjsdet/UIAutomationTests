@@ -1,0 +1,10 @@
+﻿{
+    "Name": "John",
+    "ProfileImage": "Sample1.jpg",
+    "Email": "testuser@gmail.com",
+    "Website": "https://www.globalsqa.com/samplepagetest/",
+    "Experience": "10+",
+    "Expertise": [ "Automation Testing", "Functional Testing" ],
+    "Education": "Graduate",
+    "Comment": "Sample Page Test"
+}

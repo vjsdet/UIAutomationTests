@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RunSettings>
+	<TestRunParameters>
+		<Parameter name="ENV" value="Dev" />
+		<Parameter name="URL" value="https://www.globalsqa.com" />
+	</TestRunParameters>
+</RunSettings>
