@@ -19,7 +19,6 @@ Install the below dependencies.
 - Living doc reports
 - Logger file
 - Screenshots
-- Sequencial/Parallel Execution
 - Cross Environment
 - Credentials set via run-settings
 - Data-Driven(Using Json file/Scenario Outline can also be used for the same)
