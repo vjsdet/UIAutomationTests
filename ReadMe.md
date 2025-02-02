@@ -1,5 +1,5 @@
 ﻿# UI Automation 
-Project developed in selenium, specflow and dot net technology. this project handles end to end UI testing.
+Project developed in selenium, specflow and dot net technology. This project handles end to end UI testing.
 
 # Prerequisite 
 Install the below dependencies.
